@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icon_Twitch" data-name="Icon Twitch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffdf2;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m6,0L1.71,4.29v15.43h5.14v4.29l4.29-4.29h3.43l7.71-7.71V0H6Zm.86,1.71h13.71v9.43l-3.43,3.43h-3.43l-3,3v-3h-3.86V1.71Zm9.43,8.14h1.71v-5.14h-1.71v5.14Zm-4.71,0h1.71v-5.14h-1.71v5.14Z"/>
+</svg>
